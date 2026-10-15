@@ -1,0 +1,31 @@
+{
+  "imported_at": "2026-10-15",
+  "profile": "https://www.instagram.com/studiosuelenvaes/",
+  "apify_run": "https://console.apify.com/actors/shu8hvrXbJbY3Eb9W/runs/xuTdJ96gMdQxuINT7",
+  "apify_dataset": "https://console.apify.com/storage/datasets/U9RvRs8Iibz2gOhBX",
+  "files": {
+    "hero-transformacao.webp": { "source_asset": "DdeSERqEaDj-06.webp", "post": "https://www.instagram.com/p/DdeSERqEaDj/" },
+    "suelen-retrato.webp": { "source_asset": "DdeSERqEaDj-04.webp", "post": "https://www.instagram.com/p/DdeSERqEaDj/" },
+    "mega-hair-detalhe-01.webp": { "source_asset": "DdeSERqEaDj-01.webp", "post": "https://www.instagram.com/p/DdeSERqEaDj/" },
+    "mega-hair-detalhe-02.webp": { "source_asset": "DdbsXfPkcb6-05.webp", "post": "https://www.instagram.com/p/DdbsXfPkcb6/" },
+    "antes-01.webp": { "source_asset": "DdeSERqEaDj-05.webp", "post": "https://www.instagram.com/p/DdeSERqEaDj/" },
+    "depois-01.webp": { "source_asset": "DdeSERqEaDj-01.webp", "post": "https://www.instagram.com/p/DdeSERqEaDj/" },
+    "transformacao-01.webp": { "source_asset": "DdXMSP3GGPT-06.webp", "post": "https://www.instagram.com/p/DdXMSP3GGPT/" },
+    "transformacao-02.webp": { "source_asset": "DdbsXfPkcb6-01.webp", "post": "https://www.instagram.com/p/DdbsXfPkcb6/" },
+    "transformacao-03.webp": { "source_asset": "DdpKA1gmMwB-04.webp", "post": "https://www.instagram.com/p/DdpKA1gmMwB/" },
+    "transformacao-04.webp": { "source_asset": "DdpKA1gmMwB-09.webp", "post": "https://www.instagram.com/p/DdpKA1gmMwB/" },
+    "transformacao-05.webp": { "source_asset": "DdpKA1gmMwB-11.webp", "post": "https://www.instagram.com/p/DdpKA1gmMwB/" },
+    "transformacao-06.webp": { "source_asset": "DdpKA1gmMwB-15.webp", "post": "https://www.instagram.com/p/DdpKA1gmMwB/" },
+    "coloracao-01.webp": { "source_asset": "DdcV8xiB_1t-01.webp", "post": "https://www.instagram.com/p/DdcV8xiB_1t/" },
+    "coloracao-02.webp": { "source_asset": "DdZrV7YyAi8-01.webp", "post": "https://www.instagram.com/p/DdZrV7YyAi8/" },
+    "coloracao-03.webp": { "source_asset": "DdbsXfPkcb6-03.webp", "post": "https://www.instagram.com/p/DdbsXfPkcb6/" },
+    "finalizacao-01.webp": { "source_asset": "DdbsXfPkcb6-04.webp", "post": "https://www.instagram.com/p/DdbsXfPkcb6/" },
+    "finalizacao-02.webp": { "source_asset": "DdXMSP3GGPT-04.webp", "post": "https://www.instagram.com/p/DdXMSP3GGPT/" },
+    "studio-ambiente-01.webp": { "source_asset": "DdeSERqEaDj-03.webp", "post": "https://www.instagram.com/p/DdeSERqEaDj/" },
+    "studio-ambiente-02.webp": { "source_asset": "DdpKA1gmMwB-07.webp", "post": "https://www.instagram.com/p/DdpKA1gmMwB/" },
+    "studio-ambiente-03.webp": { "source_asset": "DefPuTPmKwe-02.webp", "post": "https://www.instagram.com/p/DefPuTPmKwe/" },
+    "suelen-trabalho-01.webp": { "source_asset": "DdeSERqEaDj-04.webp", "post": "https://www.instagram.com/p/DdeSERqEaDj/" },
+    "equipe-01.webp": { "source_asset": "DefPuTPmKwe-03.webp", "post": "https://www.instagram.com/p/DefPuTPmKwe/" },
+    "equipe-02.webp": { "source_asset": "DefPuTPmKwe-04.webp", "post": "https://www.instagram.com/p/DefPuTPmKwe/" }
+  }
+}
