@@ -6,9 +6,11 @@ export const studio = {
   address: "Rua Livramento, 168 · Bento Gonçalves/RS",
   mapsUrl:
     "https://www.google.com/maps/search/?api=1&query=Rua%20Livramento%2C%20168%2C%20Bento%20Gon%C3%A7alves%2C%20RS",
-  whatsappUrl: null as string | null,
   whatsappMessage:
     "Olá! Conheci o Studio Suelen Vaes pelo site e gostaria de saber mais sobre os serviços e agendar um horário.",
+  get whatsappUrl() {
+    return `https://wa.me/5554996842786?text=${encodeURIComponent(this.whatsappMessage)}`;
+  },
   pressUrl:
     "https://www.nbnoticias.com.br/noticia/94183/studio-suelen-vaes-transformando-beleza-e-autoestima-em-bento-goncalves/amp",
   awardUrl:
